@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kristina Borovkova"
-  avatar           : "images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I attain diverse working and educational experiences by living in Central Asia, European Union and North America. I am a person who is always attempting new methods for work, taking others' opinions into consideration and constantly looking for improvement."
   location         : "Houston,TX"
   email            : "channel.kristinab@gmail.com"
