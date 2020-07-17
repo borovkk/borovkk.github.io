@@ -105,7 +105,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/kristinaborovkova/"
     - label: "GitHub"
@@ -279,7 +279,7 @@ defaults:
 #_pages
 -scope:
   path: ""
-  type: Pages
+  type: pages
   values:
     layout: single
     author_profile: true
