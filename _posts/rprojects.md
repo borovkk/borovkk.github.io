@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /rprojects
-title: "Data Visualizations with R"
+permalink: /rprojects/
+title: "R-Projects"
 author_profile: true
 ---
 
