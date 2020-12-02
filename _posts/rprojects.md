@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /rprojects/
-title: "R-Projects"
+permalink: /projects/
+title: "Data Science Projects"
 author_profile: true
 ---
 

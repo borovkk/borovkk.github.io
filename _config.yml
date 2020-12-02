@@ -113,7 +113,7 @@ author:
       url: "https://github.com/borovkk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/4ever_kristina/"
+      url: "https://www.instagram.com/br.kr.yr/"
 
 # Site Footer
 footer:
@@ -274,8 +274,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: #true
+      comments: #true
       share: true
       related: true
 #_pages
