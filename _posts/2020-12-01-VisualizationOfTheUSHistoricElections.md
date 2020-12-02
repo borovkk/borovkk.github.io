@@ -1,6 +1,6 @@
 ---
-title: "The Digital Gender Gap in Mobile and Internet Access"
-link: https://public.tableau.com/views/TheInclusiveInternetIndex2020DigitalGenderGap/Thedigitalgendergap?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+title: "Visualization of United States Presidential Historic Elections - R"
+link: https://github.com/borovkk/VisualizationOfTheUSHistoricElections
 date: 2020-12-01
-tags: [data science, data visualization, tableau]
+tags: [data science, data visualization, r, data]
 ---
